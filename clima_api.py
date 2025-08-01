@@ -48,3 +48,5 @@ df_clima = pd.DataFrame(datos_clima)
 df_clima.to_csv(r"C:\Users\arasidesen\Desktop\Proyecto VS Code\Proyecto  Inventario/clima_santiago_2024.csv", index=False)
 
 print("✅ Clima descargado y guardado")
+
+#Esta modificacion fue creada para prueba
