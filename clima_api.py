@@ -37,7 +37,7 @@ for fecha in fechas:
         datos_clima.append({
             "fecha": fecha,
             "temperatura_promedio": round(avg_temp, 1)
-        })
+        })g
     else:
         print(f"Error en {start_date} - {end_date}")
 
